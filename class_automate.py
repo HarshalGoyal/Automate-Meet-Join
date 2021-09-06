@@ -137,4 +137,4 @@ def automate(): #checks time with start time then run the script
 
 while True:
    automate()
-   sleep(35)
+   sleep(15)
